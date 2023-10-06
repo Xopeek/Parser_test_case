@@ -22,9 +22,12 @@ pip install -r requirements.txt
 Загрузите и установите веб-драйвер для браузера Chrome на официальном сайте ChromeDriver: https://sites.google.com/chromium.org/driver/
 
 ## Как использовать
-
-1. Замените urls на нужные для вас.
-2. Запустите скрипт
+1. Клонируйте репозиторий
+```
+git clone git@github.com:Xopeek/Parser_test_case.git
+```
+2. Замените urls на нужные для вас.
+3. Запустите скрипт
 ```python
 python parser.py
 ```
